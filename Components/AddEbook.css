@@ -1,0 +1,58 @@
+/* .flex-container{
+    flex-direction: column;
+    margin-top: 80px;
+  
+    padding: 100px;
+    background-color:black;
+    text-align: center;
+} */
+
+/* .AddEbook-image */
+
+body{
+    /*background-image: url("./assets/TutorB.jpg");*/
+   
+     /*background-color: rgb(9, 56, 56); */
+    background-color: #cccccc;
+    /* height: 500px; */
+    background-position: center;
+    background-size:cover;
+   /* background-attachment: fixed; */
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+   height: 100vh;
+}
+
+ .addbook{
+    background-image: url("./assets/AddEbook.jpg");
+    background-color: rgba(red, green, blue, alpha);
+    font-size: 20px;
+   padding-top: 10px;
+    border-radius:66px;
+    margin:90px 600px 100px 70px;
+    border:1px solid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+    /* color: #fff; */
+}  
+
+.button{
+    margin-left: 50px;
+}
+
+.forms{
+    margin-top: 12px;
+      padding-bottom: 30px;
+    /* text-align: center; */
+}
+
+label{
+    font-size:20px;
+    text-align: left;
+    /* font-weight: */
+}
+
+/* .thick{
+font-weight:100px;
+
+} */

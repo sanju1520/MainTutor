@@ -1,0 +1,36 @@
+.table{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: #000;
+    color: midnightblue;
+    opacity: .9;
+    
+}
+.h1,h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 250px;
+    
+}
+.h2,h2{
+    text-align: center;
+}
+
+nav{
+    background-color: rgba(121, 108, 108, 0.5);
+    
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: blue;
+    
+}
+footer{
+    margin-top: 50%;
+    color: gold;
+}
+.h3,h3{
+    font-size: 1rem;
+}
+
